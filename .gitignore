@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.env
+*.key
+*.pem
+privatekey
+id_ed25519*
+*.swp
+*.ko
+*.o
